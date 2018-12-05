@@ -1,0 +1,40 @@
+# Prerequisites
+*.d
+
+# Compiled Object files
+*.slo
+*.lo
+*.o
+*.obj
+Win32/Debug/*.obj
+Win32/Release/*.obj
+
+# Precompiled Headers
+*.gch
+*.pch
+Win32/Debug/*.pch
+Win32/Release/*.pch
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+*.dll
+Win32/Debug/*.dll
+Win32/Release/*.dll
+
+# Fortran module files
+*.mod
+*.smod
+
+# Compiled Static libraries
+*.lai
+*.la
+*.a
+*.lib
+
+# Executables
+*.exe
+Win32/Debug/*.exe
+Win32/Release/*.exe
+*.out
+*.app
